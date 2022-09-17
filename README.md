@@ -1,6 +1,9 @@
 # SQLCourse
 
-Hi! Submitting my final in Mode report format did not work because I can't set the workspace to public.  The settings page where that change would be made is currently down.  Believe me when I tell you the Mode report exists and I've spent a frustrating amount of time trying to make it viewable.  Below you will see 1) an approximation of the report (visualize the graphs in your imagination) and 2) the source code if you want to cut and paste them into Mode to test them yourself and check the data snips that are in the report.
+Hi! Submitting my final in Mode report format did not work because I can't set the workspace to public.  The settings page where that change would 
+be made is currently down.  Believe me when I tell you the Mode report exists and I've spent a frustrating amount of time trying to make it viewable.  
+Below you will see 1) an approximation of the report (visualize the graphs in your imagination) and 2) the source code if you want to cut and paste
+them into Mode to test them yourself and check the data snips that are in the report.
 
 # Effects of Test 2 on Orders and Views - Report
 
